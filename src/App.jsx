@@ -9,6 +9,7 @@ function App() {
   return (
 <> 
 <h1>Hello CICD S211 Section</h1>
+<h1>Welcome</h1>
 </>
   )
 }
